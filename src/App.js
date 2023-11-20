@@ -20,7 +20,7 @@ function App() {
         <div>I am Mayuri</div>
       </header>
     </div>
-  );
+  )
 }
 
 export default App;
